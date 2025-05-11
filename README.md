@@ -3,8 +3,7 @@
 **A Capstone Project for Data Science and Analytics Course 503: Design of Experiments**
 **SUNY Polytechnic Institute**
 
-Henry Zelenak
-May 2025
+Henry Zelenak | May 2025
 
 ## Project Overview
 
