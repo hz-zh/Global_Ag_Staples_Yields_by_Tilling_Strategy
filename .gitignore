@@ -10,7 +10,6 @@ wheels/
 # Rye
 .venv
 src
-pyproject.toml
 .DS_Store
 
 # Private
