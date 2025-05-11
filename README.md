@@ -122,8 +122,6 @@ This project was developed using Python within a **Rye** managed environment.
 * **plotly**: For interactive data visualizations.
 * **patsy**: For creating design matrices from formulas (used by statsmodels).
 
-(Ensure these are listed in your `requirements.txt` and `pyproject.toml` under dependencies).
-
 ## Methodological Summary
 
 1. **Data Source:** Su et al. (2021) global dataset.
