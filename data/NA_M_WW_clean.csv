@@ -1,0 +1,326 @@
+author,year,latitude,longitude,years_since_nt_start,p,tave,irrigation_ct,irrigation_nt,crop_rotation_with_at_least_3_crops_involved_in_ct,crop_rotation_with_at_least_3_crops_involved_in_nt,st,crop,site_country,relative_yield_change
+Anapalli et al.,2005,40.15,-103.15,2,367.3,9.95455,No,No,No,No,Loam,wheat.winter,USA,0.4996
+Anapalli et al.,2005,40.15,-103.15,3,568.4,10.16364,No,No,No,No,Loam,wheat.winter,USA,0.1472
+Anapalli et al.,2005,40.15,-103.15,4,486.6,10.22727,No,No,No,No,Loam,wheat.winter,USA,0.2073
+Anapalli et al.,2005,40.15,-103.15,5,456.0,9.88182,No,No,No,No,Loam,wheat.winter,USA,0.9216
+Anapalli et al.,2005,40.15,-103.15,6,419.7,10.3,No,No,No,No,Loam,wheat.winter,USA,0.6078
+Anapalli et al.,2005,40.15,-103.15,7,509.3,11.20909,No,No,No,No,Loam,wheat.winter,USA,0.2323
+Anapalli et al.,2005,40.15,-103.15,8,333.6,11.96364,No,No,No,No,Loam,wheat.winter,USA,0.3259
+Anapalli et al.,2005,40.15,-103.15,9,483.4,10.1,No,No,No,No,Loam,wheat.winter,USA,0.4583
+Anapalli et al.,2005,40.15,-103.15,10,265.3,11.03636,No,No,No,No,Loam,wheat.winter,USA,0.1233
+Anapalli et al.,2005,40.15,-103.15,11,446.2,10.72727,No,No,No,No,Loam,wheat.winter,USA,0.2679
+Cahoon et al.,1999,40.52,-98.06,5,282.7,20.46667,Yes,Yes,No,No,Loam,maize,USA,-0.1082
+Cahoon et al.,1999,40.52,-98.06,6,600.3,18.8,Yes,Yes,No,No,Loam,maize,USA,0.0744
+Cahoon et al.,1999,40.52,-98.06,7,603.1,18.78333,Yes,Yes,No,No,Loam,maize,USA,-0.0221
+Cahoon et al.,1999,40.52,-98.06,8,565.7,20.3,Yes,Yes,No,No,Loam,maize,USA,0.0515
+Cahoon et al.,1999,40.52,-98.06,9,413.6,19.5,Yes,Yes,No,No,Loam,maize,USA,-0.0158
+Cahoon et al.,1999,40.52,-98.06,12,492.5,19.75,Yes,Yes,No,No,Loam,maize,USA,0.0361
+Cahoon et al.,1999,40.52,-98.06,13,376.7,20.46667,Yes,Yes,No,No,Loam,maize,USA,0.0898
+Cahoon et al.,1999,40.52,-98.06,14,530.0,19.0,Yes,Yes,No,No,Loam,maize,USA,0.1091
+Cahoon et al.,1999,40.52,-98.06,15,546.3,19.8,Yes,Yes,No,No,Loam,maize,USA,0.0856
+Cahoon et al.,1999,40.52,-98.06,16,359.8,20.51667,Yes,Yes,No,No,Loam,maize,USA,0.1788
+Cline and Silvernail,2002,38.19,-84.87,3,684.5,20.56667,Yes,Yes,Yes,Yes,Loam,maize,USA,0.1906
+Cline and Silvernail,2002,38.19,-84.87,3,684.5,20.56667,Yes,Yes,Yes,Yes,Loam,maize,USA,0.1516
+Cline and Silvernail,2002,38.19,-84.87,3,684.5,20.56667,Yes,Yes,Yes,Yes,Loam,maize,USA,0.1213
+Cline and Silvernail,2002,38.19,-84.87,2,758.2,21.0,Yes,Yes,Yes,Yes,Loam,maize,USA,0.0641
+Cline and Silvernail,2002,38.19,-84.87,2,758.2,21.0,Yes,Yes,Yes,Yes,Loam,maize,USA,-0.0846
+Cline and Silvernail,2002,43.15,-80.78,2,484.3,18.16667,Yes,Yes,Yes,Yes,Loam,maize,USA,0.0
+Eghball and Power,1999,41.12,-96.5,4,509.6,19.35,Yes,Yes,No,No,Loam,maize,USA,0.373
+Eghball and Power,1999,41.12,-96.5,4,509.6,19.35,Yes,Yes,No,No,Loam,maize,USA,0.3434
+Eghball and Power,1999,41.12,-96.5,4,509.6,19.35,Yes,Yes,No,No,Loam,maize,USA,0.1375
+Eghball and Power,1999,41.12,-96.5,4,509.6,19.35,Yes,Yes,No,No,Loam,maize,USA,-0.0463
+Fischer et al.,2002a,19.52,-98.83,2,328.2,13.5,Yes,Yes,Yes,Yes,Loam,wheat.winter,Mexico,-0.0022
+Fischer et al.,2002a,19.52,-98.83,2,328.2,13.5,Yes,Yes,Yes,Yes,Loam,wheat.winter,Mexico,-0.0739
+Fischer et al.,2002a,19.52,-98.83,3,333.3,14.21429,No,No,Yes,Yes,Loam,wheat.winter,Mexico,0.4087
+Fischer et al.,2002a,19.52,-98.83,3,333.3,14.21429,No,No,Yes,Yes,Loam,wheat.winter,Mexico,0.2483
+Fischer et al.,2002a,19.52,-98.83,3,333.3,14.21429,No,No,No,No,Loam,wheat.winter,Mexico,0.0735
+Fischer et al.,2002a,19.52,-98.83,3,333.3,14.21429,No,No,Yes,Yes,Loam,wheat.winter,Mexico,0.0224
+Fischer et al.,2002a,19.52,-98.83,3,333.3,14.21429,No,No,No,No,Loam,wheat.winter,Mexico,-0.0049
+Fischer et al.,2002a,19.52,-98.83,4,379.0,14.31429,Yes,Yes,Yes,Yes,Loam,wheat.winter,Mexico,0.0819
+Fischer et al.,2002a,19.52,-98.83,4,379.0,14.31429,Yes,Yes,Yes,Yes,Loam,wheat.winter,Mexico,0.0473
+Fischer et al.,2002a,19.52,-98.83,4,379.0,14.31429,Yes,Yes,No,No,Loam,wheat.winter,Mexico,-0.01
+Fischer et al.,2002a,19.52,-98.83,4,379.0,14.31429,Yes,Yes,Yes,Yes,Loam,wheat.winter,Mexico,-0.0662
+Fischer et al.,2002a,19.52,-98.83,4,379.0,14.31429,Yes,Yes,No,No,Loam,wheat.winter,Mexico,-0.1152
+Fischer et al.,2002a,19.52,-98.83,5,345.7,15.12857,No,No,Yes,Yes,Loam,wheat.winter,Mexico,0.0074
+Fischer et al.,2002a,19.52,-98.83,5,345.7,15.12857,No,No,Yes,Yes,Loam,wheat.winter,Mexico,-0.0526
+Fischer et al.,2002a,19.52,-98.83,5,345.7,15.12857,No,No,No,No,Loam,wheat.winter,Mexico,-0.0896
+Fischer et al.,2002a,19.52,-98.83,5,345.7,15.12857,No,No,Yes,Yes,Loam,wheat.winter,Mexico,-0.1499
+Fischer et al.,2002a,19.52,-98.83,5,345.7,15.12857,No,No,No,No,Loam,wheat.winter,Mexico,-0.2343
+Fischer et al.,2002a,19.52,-98.83,6,401.2,13.98571,Yes,Yes,Yes,Yes,Loam,wheat.winter,Mexico,0.4893
+Fischer et al.,2002a,19.52,-98.83,6,401.2,13.98571,Yes,Yes,Yes,Yes,Loam,wheat.winter,Mexico,0.3573
+Fischer et al.,2002a,19.52,-98.83,6,401.2,13.98571,Yes,Yes,No,No,Loam,wheat.winter,Mexico,0.223
+Fischer et al.,2002a,19.52,-98.83,6,401.2,13.98571,Yes,Yes,Yes,Yes,Loam,wheat.winter,Mexico,0.1602
+Fischer et al.,2002a,19.52,-98.83,6,401.2,13.98571,Yes,Yes,No,No,Loam,wheat.winter,Mexico,0.1542
+Halvorson et al.,2006,40.65,-104.98,2,197.5,14.04286,Yes,Yes,No,No,Loam,maize,USA,0.187
+Halvorson et al.,2006,40.65,-104.98,2,197.5,14.04286,Yes,Yes,No,No,Loam,maize,USA,0.0749
+Halvorson et al.,2006,40.65,-104.98,2,197.5,14.04286,Yes,Yes,No,No,Loam,maize,USA,-0.0025
+Halvorson et al.,2006,40.65,-104.98,2,197.5,14.04286,Yes,Yes,No,No,Loam,maize,USA,-0.1154
+Halvorson et al.,2006,40.65,-104.98,3,253.0,14.88571,Yes,Yes,No,No,Loam,maize,USA,0.0402
+Halvorson et al.,2006,40.65,-104.98,3,253.0,14.88571,Yes,Yes,No,No,Loam,maize,USA,-0.1765
+Halvorson et al.,2006,40.65,-104.98,3,253.0,14.88571,Yes,Yes,No,No,Loam,maize,USA,-0.2005
+Halvorson et al.,2006,40.65,-104.98,3,253.0,14.88571,Yes,Yes,No,No,Loam,maize,USA,-0.2078
+Halvorson et al.,2006,40.65,-104.98,4,267.2,13.92857,Yes,Yes,No,No,Loam,maize,USA,-0.0984
+Halvorson et al.,2006,40.65,-104.98,4,267.2,13.92857,Yes,Yes,No,No,Loam,maize,USA,-0.1399
+Halvorson et al.,2006,40.65,-104.98,4,267.2,13.92857,Yes,Yes,No,No,Loam,maize,USA,-0.2361
+Halvorson et al.,2006,40.65,-104.98,4,267.2,13.92857,Yes,Yes,No,No,Loam,maize,USA,-0.3492
+Halvorson et al.,2006,40.65,-104.98,5,223.0,14.8,Yes,Yes,No,No,Loam,maize,USA,-0.0516
+Halvorson et al.,2006,40.65,-104.98,5,223.0,14.8,Yes,Yes,No,No,Loam,maize,USA,-0.0647
+Halvorson et al.,2006,40.65,-104.98,5,223.0,14.8,Yes,Yes,No,No,Loam,maize,USA,-0.1007
+Halvorson et al.,2006,40.65,-104.98,5,223.0,14.8,Yes,Yes,No,No,Loam,maize,USA,-0.3226
+Halvorson et al.,2006,40.65,-104.98,6,445.4,13.85714,Yes,Yes,No,No,Loam,maize,USA,-0.0756
+Halvorson et al.,2006,40.65,-104.98,6,445.4,13.85714,Yes,Yes,No,No,Loam,maize,USA,-0.2032
+Halvorson et al.,2006,40.65,-104.98,6,445.4,13.85714,Yes,Yes,No,No,Loam,maize,USA,-0.3051
+Halvorson et al.,2006,40.65,-104.98,6,445.4,13.85714,Yes,Yes,No,No,Loam,maize,USA,-0.3324
+Halvorson et al. 1,1999,46.82,-100.88,4,132.3,7.71818,No,No,No,No,Loam,wheat.winter,USA,-0.3981
+Halvorson et al. 1,1999,46.82,-100.88,5,323.0,5.96364,No,No,No,No,Loam,wheat.winter,USA,0.4698
+Halvorson et al. 1,1999,46.82,-100.88,6,283.8,7.32727,No,No,No,No,Loam,wheat.winter,USA,0.0686
+Halvorson et al. 1,1999,46.82,-100.88,11,650.4,6.2,No,No,No,No,Loam,wheat.winter,USA,-0.0852
+Irmak,2019,40.43,-99.38,18,511.9,18.73333,Yes,Yes,No,No,Loam,maize,USA,-0.0635
+Irmak,2019,40.43,-99.38,19,112.5,19.48333,Yes,Yes,No,No,Loam,maize,USA,-0.0593
+Irmak,2019,40.43,-99.38,20,251.9,19.76667,Yes,Yes,No,No,Loam,maize,USA,-0.0938
+Karlen et al.,1996,34.3,-79.73,10,667.2,23.25,No,No,Yes,Yes,Loam,maize,USA,0.0646
+Karlen et al.,1996,34.3,-79.73,11,801.7,23.35,No,No,Yes,Yes,Loam,maize,USA,-0.1578
+Karlen et al.,1996,34.3,-79.73,12,487.2,24.18333,No,No,Yes,Yes,Loam,maize,USA,0.2795
+Karlen et al.,1996,34.3,-79.73,13,521.3,24.45,No,No,Yes,Yes,Loam,maize,USA,-0.0472
+Karlen et al.,1996,34.3,-79.73,10,779.7,17.4375,No,No,Yes,Yes,Loam,wheat.winter,USA,0.0558
+Karlen et al.,1996,34.3,-79.73,11,653.9,18.625,No,No,Yes,Yes,Loam,wheat.winter,USA,-0.0314
+Karlen et al.,1996,34.3,-79.73,12,773.3,19.1125,No,No,Yes,Yes,Loam,wheat.winter,USA,0.4794
+Karlen et al.,1996,34.3,-79.73,13,646.9,17.4375,No,No,Yes,Yes,Loam,wheat.winter,USA,-0.3833
+Lessen,2018,47.77,-104.27,1,135.0,16.58,Yes,Yes,Yes,Yes,Loam,maize,USA,0.3124
+Lessen,2018,47.77,-104.27,2,191.3,17.72,Yes,Yes,Yes,Yes,Loam,maize,USA,-0.0228
+Lessen,2018,47.77,-104.27,3,240.4,17.9,Yes,Yes,Yes,Yes,Loam,maize,USA,0.5538
+Lessen,2018,47.77,-104.27,4,148.0,16.66,Yes,Yes,Yes,Yes,Loam,maize,USA,0.7459
+Lessen,2018,47.77,-104.27,5,209.6,16.38,Yes,Yes,Yes,Yes,Loam,maize,USA,0.4724
+Lessen,2018,47.77,-104.27,6,351.5,15.82,Yes,Yes,Yes,Yes,Loam,maize,USA,-0.0615
+Lowery et al.,1998,43.18,-89.92,2,702.1,17.26667,No,No,No,No,Loam,maize,USA,0.5243
+Lowery et al.,1998,43.18,-89.92,2,702.1,17.26667,Yes,Yes,No,No,Loam,maize,USA,0.0294
+Lowery et al.,1998,43.18,-89.92,3,625.2,18.05,Yes,Yes,No,No,Loam,maize,USA,0.1126
+Lowery et al.,1998,43.18,-89.92,3,625.2,18.05,No,No,No,No,Loam,maize,USA,-0.1044
+Lowery et al.,1998,43.18,-89.92,5,903.7,16.45,No,No,No,No,Loam,maize,USA,-0.1234
+Lowery et al.,1998,43.18,-89.92,5,903.7,16.45,Yes,Yes,No,No,Loam,maize,USA,-0.4339
+Lowery et al.,1998,43.18,-89.92,6,583.7,17.08333,No,No,No,No,Loam,maize,USA,0.5
+Lowery et al.,1998,43.18,-89.92,6,583.7,17.08333,Yes,Yes,No,No,Loam,maize,USA,-0.3135
+Lowery et al.,1998,43.18,-89.92,5,766.0,16.76,Yes,Yes,No,No,Loam,soybean,USA,-0.3322
+Lowery et al.,1998,43.18,-89.92,6,527.1,17.68,Yes,Yes,No,No,Loam,soybean,USA,-0.3025
+Mosier et al.,2006,40.65,-104.98,4,267.2,13.92857,Yes,Yes,No,No,Loam,maize,USA,-0.0978
+Mosier et al.,2006,40.65,-104.98,4,267.2,13.92857,Yes,Yes,No,No,Loam,maize,USA,-0.1689
+Mosier et al.,2006,40.65,-104.98,4,267.2,13.92857,Yes,Yes,No,No,Loam,maize,USA,-0.2414
+Mosier et al.,2006,40.65,-104.98,5,223.0,14.8,Yes,Yes,No,No,Loam,maize,USA,-0.0885
+Mosier et al.,2006,40.65,-104.98,5,223.0,14.8,Yes,Yes,No,No,Loam,maize,USA,-0.0891
+Mosier et al.,2006,40.65,-104.98,5,223.0,14.8,Yes,Yes,No,No,Loam,maize,USA,-0.329
+Mosier et al.,2006,40.65,-104.98,6,445.4,13.85714,Yes,Yes,No,No,Loam,maize,USA,-0.0844
+Mosier et al.,2006,40.65,-104.98,6,445.4,13.85714,Yes,Yes,No,No,Loam,maize,USA,-0.2016
+Mosier et al.,2006,40.65,-104.98,6,445.4,13.85714,Yes,Yes,No,No,Loam,maize,USA,-0.3902
+Norwood and Currie,1996,37.99,-100.82,1,349.6,20.95,No,No,No,No,Sandy loam,maize,USA,2.7018
+Norwood and Currie,1996,37.99,-100.82,1,349.6,20.95,No,No,No,No,Sandy loam,maize,USA,1.4446
+Norwood and Currie,1996,37.99,-100.82,1,349.6,20.95,No,No,No,No,Sandy loam,maize,USA,1.1049
+Norwood and Currie,1996,37.99,-100.82,1,349.6,20.95,No,No,No,No,Sandy loam,maize,USA,1.0558
+Norwood and Currie,1996,37.99,-100.82,1,349.6,20.95,No,No,No,No,Sandy loam,maize,USA,0.8801
+Norwood and Currie,1996,37.99,-100.82,1,349.6,20.95,No,No,No,No,Sandy loam,maize,USA,0.7504
+Norwood and Currie,1996,37.99,-100.82,1,349.6,20.95,No,No,No,No,Sandy loam,maize,USA,0.6429
+Norwood and Currie,1996,37.99,-100.82,1,349.6,20.95,No,No,No,No,Sandy loam,maize,USA,0.4288
+Norwood and Currie,1996,37.99,-100.82,3,364.0,19.46667,No,No,No,No,Sandy loam,maize,USA,0.2593
+Norwood and Currie,1996,37.99,-100.82,3,364.0,19.46667,No,No,No,No,Sandy loam,maize,USA,0.1899
+Norwood and Currie,1996,37.99,-100.82,3,364.0,19.46667,No,No,No,No,Sandy loam,maize,USA,0.1628
+Norwood and Currie,1996,37.99,-100.82,3,364.0,19.46667,No,No,No,No,Sandy loam,maize,USA,0.1187
+Norwood and Currie,1996,37.99,-100.82,3,364.0,19.46667,No,No,No,No,Sandy loam,maize,USA,0.1054
+Norwood and Currie,1996,37.99,-100.82,3,364.0,19.46667,No,No,No,No,Sandy loam,maize,USA,0.0686
+Norwood and Currie,1996,37.99,-100.82,3,364.0,19.46667,No,No,No,No,Sandy loam,maize,USA,0.0426
+Norwood and Currie,1996,37.99,-100.82,3,364.0,19.46667,No,No,No,No,Sandy loam,maize,USA,-0.0281
+Norwood and Currie,1996,37.99,-100.82,3,364.0,19.46667,No,No,No,No,Sandy loam,maize,USA,-0.0611
+Norwood and Currie,1996,37.99,-100.82,4,390.1,21.21667,No,No,No,No,Sandy loam,maize,USA,0.7461
+Norwood and Currie,1996,37.99,-100.82,4,390.1,21.21667,No,No,No,No,Sandy loam,maize,USA,0.5999
+Norwood and Currie,1996,37.99,-100.82,4,390.1,21.21667,No,No,No,No,Sandy loam,maize,USA,0.5457
+Norwood and Currie,1996,37.99,-100.82,4,390.1,21.21667,No,No,No,No,Sandy loam,maize,USA,0.5217
+Norwood and Currie,1996,37.99,-100.82,4,390.1,21.21667,No,No,No,No,Sandy loam,maize,USA,0.3333
+Norwood and Currie,1996,37.99,-100.82,4,390.1,21.21667,No,No,No,No,Sandy loam,maize,USA,0.297
+Norwood and Currie,1996,37.99,-100.82,4,390.1,21.21667,No,No,No,No,Sandy loam,maize,USA,0.2466
+Norwood and Currie,1996,37.99,-100.82,4,390.1,21.21667,No,No,No,No,Sandy loam,maize,USA,0.2179
+Norwood and Currie,1996,37.99,-100.82,4,390.1,21.21667,No,No,No,No,Sandy loam,maize,USA,0.2025
+Peachey et al. ,2006,44.57,-123.24,5,405.1,15.11429,Yes,Yes,Yes,Yes,Loam,maize,USA,2.2258
+Peachey et al. ,2006,44.57,-123.24,4,405.1,15.11429,Yes,Yes,Yes,Yes,Loam,maize,USA,0.3623
+Peachey et al. ,2006,44.57,-123.24,4,405.1,15.11429,Yes,Yes,Yes,Yes,Loam,maize,USA,0.3444
+Peachey et al. ,2006,44.57,-123.24,4,405.1,15.11429,Yes,Yes,Yes,Yes,Loam,maize,USA,0.244
+Peachey et al. ,2006,44.57,-123.24,5,405.1,15.11429,Yes,Yes,Yes,Yes,Loam,maize,USA,0.5915
+Peachey et al. ,2006,44.57,-123.24,5,405.1,15.11429,Yes,Yes,Yes,Yes,Loam,maize,USA,0.4815
+Quincke et al.,2007,40.83,-96.47,14,418.7999954,21.03333362,No,No,Yes,Yes,Loam,maize,USA,-0.0826
+Quincke et al.,2007,40.83,-96.47,14,418.7999954,21.03333362,No,No,Yes,Yes,Loam,maize,USA,-0.0623
+Quincke et al.,2007,40.83,-96.47,13,457.2,19.51667,No,No,Yes,Yes,Loam,soybean,USA,-0.0483
+Quincke et al.,2007,40.83,-96.47,13,457.2,19.51667,No,No,Yes,Yes,Loam,soybean,USA,-0.0252
+Quincke et al.,2007,40.83,-96.47,13,457.2,19.51667,Yes,Yes,Yes,Yes,Loam,soybean,USA,-0.0369
+Reddy et al.,2009,34.68,-86.87,10,695.5,22.65,Yes,Yes,Yes,Yes,Loam,maize,USA,0.1862
+Reddy et al.,2009,34.68,-86.87,10,695.5,22.65,Yes,Yes,Yes,Yes,Loam,maize,USA,0.0933
+Reddy et al.,2009,34.68,-86.87,13,634.7,22.36667,Yes,Yes,Yes,Yes,Loam,maize,USA,0.0619
+Reddy et al.,2009,34.68,-86.87,13,634.7,22.36667,Yes,Yes,Yes,Yes,Loam,maize,USA,-0.0369
+Sainju and Singh,2001,32.53,-83.85,2,847.1,24.78333,Yes,Yes,No,No,Sandy loam,maize,USA,0.2453
+Sainju and Singh,2001,32.53,-83.85,2,847.1,24.78333,Yes,Yes,No,No,Sandy loam,maize,USA,-0.0819
+Sainju and Singh,2001,32.53,-83.85,3,468.0,24.13333,Yes,Yes,No,No,Sandy loam,maize,USA,0.66
+Sainju and Singh,2001,32.53,-83.85,3,468.0,24.13333,Yes,Yes,No,No,Sandy loam,maize,USA,-0.0387
+Sainju and Singh,2001,32.53,-83.85,3,468.0,24.13333,Yes,Yes,No,No,Sandy loam,maize,USA,-0.1139
+Schlegel,2018,38.47,-101.75,0,404.7,12.25,No,No,No,No,Loam,wheat.winter,USA,-0.0648
+Schlegel,2018,38.47,-101.75,2,536.2,9.7,No,No,No,No,Loam,wheat.winter,USA,0.3576
+Schlegel,2018,38.47,-101.75,3,437.8,11.59,No,No,No,No,Loam,wheat.winter,USA,-0.0585
+Schlegel,2018,38.47,-101.75,4,492.8,11.65,No,No,No,No,Loam,wheat.winter,USA,0.1555
+Schlegel,2018,38.47,-101.75,5,507.7,11.5,No,No,No,No,Loam,wheat.winter,USA,0.6111
+Schlegel,2018,38.47,-101.75,6,423.9,10.97,No,No,No,No,Loam,wheat.winter,USA,0.5087
+Schlegel,2018,38.47,-101.75,7,473.3,11.21,No,No,No,No,Loam,wheat.winter,USA,0.2292
+Schlegel,2018,38.47,-101.75,8,516.6,12.03,No,No,No,No,Loam,wheat.winter,USA,0.0861
+Schlegel,2018,38.47,-101.75,9,305.6,12.99,No,No,No,No,Loam,wheat.winter,USA,1.1377
+Schlegel,2018,38.47,-101.75,10,487.4,11.31,No,No,No,No,Loam,wheat.winter,USA,0.7759
+Schlegel,2018,38.47,-101.75,12,418.0,11.93,No,No,No,No,Loam,wheat.winter,USA,0.3514
+Schlegel,2018,38.47,-101.75,13,441.9,11.87,No,No,No,No,Loam,wheat.winter,USA,1.8889
+Schlegel,2018,38.47,-101.75,14,446.5,12.17,No,No,No,No,Loam,wheat.winter,USA,0.214
+Schlegel,2018,38.47,-101.75,16,486.8,10.91,No,No,No,No,Loam,wheat.winter,USA,0.977
+Schlegel,2018,38.47,-101.75,17,335.3,11.56,No,No,No,No,Loam,wheat.winter,USA,-0.5972
+Schlegel,2018,38.47,-101.75,18,424.5,12.32,No,No,No,No,Loam,wheat.winter,USA,1.5965
+Schlegel,2018,38.47,-101.75,19,438.5,11.58,No,No,No,No,Loam,wheat.winter,USA,0.7056
+Schlegel,2018,38.47,-101.75,20,332.1,12.44,No,No,No,No,Loam,wheat.winter,USA,-0.1007
+Schlegel,2018,38.47,-101.75,23,329.2,11.2,No,No,No,No,Loam,wheat.winter,USA,0.7353
+Schlegel,2018,38.47,-101.75,24,492.0,12.41,No,No,No,No,Loam,wheat.winter,USA,-0.1538
+Shapiro et al.,2001,41.55,-99.87,2,462.8,16.81667,No,No,No,No,Sandy loam,maize,USA,-0.1297
+Shapiro et al.,2001,41.55,-99.87,3,554.3,16.46667,No,No,No,No,Sandy loam,maize,USA,-0.1671
+Shapiro et al.,2001,41.55,-99.87,4,465.3,17.48333,No,No,No,No,Sandy loam,maize,USA,-0.0744
+Spargo et al.,2011,39.05,-76.9,25,623.9,20.23333,Yes,Yes,Yes,Yes,Loam,maize,USA,-0.0702
+Stecker et al.,1995,38.89,-92.2,2,346.4,21.25,Yes,Yes,No,No,Loam,maize,USA,-0.3328
+Stecker et al.,1995,38.89,-92.2,2,346.4,21.25,Yes,Yes,No,No,Loam,maize,USA,-0.074
+Stecker et al.,1995,38.89,-92.2,2,346.4,21.25,Yes,Yes,No,No,Loam,maize,USA,0.3409
+Stecker et al.,1995,38.89,-92.2,2,346.4,21.25,Yes,Yes,No,No,Loam,maize,USA,-0.0087
+Stecker et al.,1995,38.89,-92.2,2,346.4,21.25,Yes,Yes,No,No,Loam,maize,USA,-0.1456
+Stecker et al.,1995,38.89,-92.2,2,346.4,21.25,Yes,Yes,No,No,Loam,maize,USA,-0.2663
+Stecker et al.,1995,38.89,-92.2,2,346.4,21.25,Yes,Yes,No,No,Loam,maize,USA,-0.2187
+Stecker et al.,1995,38.89,-92.2,2,346.4,21.25,Yes,Yes,No,No,Loam,maize,USA,-0.0672
+Stecker et al.,1995,38.89,-92.2,2,346.4,21.25,Yes,Yes,No,No,Loam,maize,USA,-0.0946
+Stecker et al.,1995,38.89,-92.2,2,346.4,21.25,Yes,Yes,No,No,Loam,maize,USA,-0.1225
+Stecker et al.,1995,38.89,-92.2,3,618.9,19.96667,Yes,Yes,No,No,Loam,maize,USA,-0.2974
+Stecker et al.,1995,38.89,-92.2,3,618.9,19.96667,Yes,Yes,No,No,Loam,maize,USA,-0.0714
+Stecker et al.,1995,38.89,-92.2,3,618.9,19.96667,Yes,Yes,No,No,Loam,maize,USA,-0.1931
+Stecker et al.,1995,38.89,-92.2,3,618.9,19.96667,Yes,Yes,No,No,Loam,maize,USA,0.032
+Stecker et al.,1995,38.89,-92.2,3,618.9,19.96667,Yes,Yes,No,No,Loam,maize,USA,-0.097
+Stecker et al.,1995,38.89,-92.2,3,618.9,19.96667,Yes,Yes,No,No,Loam,maize,USA,-0.2721
+Stecker et al.,1995,38.89,-92.2,3,618.9,19.96667,Yes,Yes,No,No,Loam,maize,USA,-0.0913
+Stecker et al.,1995,38.89,-92.2,3,618.9,19.96667,Yes,Yes,No,No,Loam,maize,USA,-0.1877
+Stecker et al.,1995,38.89,-92.2,3,618.9,19.96667,Yes,Yes,No,No,Loam,maize,USA,-0.0756
+Stecker et al.,1995,38.89,-92.2,3,618.9,19.96667,Yes,Yes,No,No,Loam,maize,USA,0.0206
+Stecker et al.,1995,40.02,-92.19,2,244.4,21.58333,Yes,Yes,No,No,Loam,maize,USA,0.0179
+Stecker et al.,1995,40.02,-92.19,2,244.4,21.58333,Yes,Yes,No,No,Loam,maize,USA,0.2309
+Stecker et al.,1995,40.02,-92.19,2,244.4,21.58333,Yes,Yes,No,No,Loam,maize,USA,0.1822
+Stecker et al.,1995,40.02,-92.19,2,244.4,21.58333,Yes,Yes,No,No,Loam,maize,USA,0.1181
+Stecker et al.,1995,40.02,-92.19,2,244.4,21.58333,Yes,Yes,No,No,Loam,maize,USA,0.1262
+Stecker et al.,1995,40.02,-92.19,2,244.4,21.58333,Yes,Yes,No,No,Loam,maize,USA,-0.0822
+Stecker et al.,1995,40.02,-92.19,2,244.4,21.58333,Yes,Yes,No,No,Loam,maize,USA,0.0213
+Stecker et al.,1995,40.02,-92.19,2,244.4,21.58333,Yes,Yes,No,No,Loam,maize,USA,-0.0209
+Stecker et al.,1995,40.02,-92.19,2,244.4,21.58333,Yes,Yes,No,No,Loam,maize,USA,-0.0344
+Stecker et al.,1995,40.02,-92.19,2,244.4,21.58333,Yes,Yes,No,No,Loam,maize,USA,0.0388
+Stecker et al.,1995,40.02,-92.19,3,586.0,19.81667,Yes,Yes,No,No,Loam,maize,USA,-0.3969
+Stecker et al.,1995,40.02,-92.19,3,586.0,19.81667,Yes,Yes,No,No,Loam,maize,USA,-0.283
+Stecker et al.,1995,40.02,-92.19,3,586.0,19.81667,Yes,Yes,No,No,Loam,maize,USA,-0.1095
+Stecker et al.,1995,40.02,-92.19,3,586.0,19.81667,Yes,Yes,No,No,Loam,maize,USA,-0.1475
+Stecker et al.,1995,40.02,-92.19,3,586.0,19.81667,Yes,Yes,No,No,Loam,maize,USA,-0.0993
+Stecker et al.,1995,40.02,-92.19,3,586.0,19.81667,Yes,Yes,No,No,Loam,maize,USA,-0.3148
+Stecker et al.,1995,40.02,-92.19,3,586.0,19.81667,Yes,Yes,No,No,Loam,maize,USA,0.0389
+Stecker et al.,1995,40.02,-92.19,3,586.0,19.81667,Yes,Yes,No,No,Loam,maize,USA,-0.0213
+Stecker et al.,1995,40.02,-92.19,3,586.0,19.81667,Yes,Yes,No,No,Loam,maize,USA,0.0805
+Stecker et al.,1995,40.02,-92.19,3,586.0,19.81667,Yes,Yes,No,No,Loam,maize,USA,0.172
+Stecker et al.,1995,40.02,-92.19,4,666.3,20.38333,Yes,Yes,No,No,Loam,maize,USA,-0.0884
+Stecker et al.,1995,40.02,-92.19,4,666.3,20.38333,Yes,Yes,No,No,Loam,maize,USA,0.0561
+Stecker et al.,1995,40.02,-92.19,4,666.3,20.38333,Yes,Yes,No,No,Loam,maize,USA,-0.0257
+Stecker et al.,1995,40.02,-92.19,4,666.3,20.38333,Yes,Yes,No,No,Loam,maize,USA,0.0749
+Stecker et al.,1995,40.02,-92.19,4,666.3,20.38333,Yes,Yes,No,No,Loam,maize,USA,0.0262
+Stecker et al.,1995,40.02,-92.19,4,666.3,20.38333,Yes,Yes,No,No,Loam,maize,USA,-0.3911
+Stecker et al.,1995,40.02,-92.19,4,666.3,20.38333,Yes,Yes,No,No,Loam,maize,USA,-0.1271
+Stecker et al.,1995,40.02,-92.19,4,666.3,20.38333,Yes,Yes,No,No,Loam,maize,USA,-0.0715
+Stecker et al.,1995,40.02,-92.19,4,666.3,20.38333,Yes,Yes,No,No,Loam,maize,USA,-0.0463
+Stecker et al.,1995,40.02,-92.19,4,666.3,20.38333,Yes,Yes,No,No,Loam,maize,USA,-0.0337
+Vazquez et al.,1989,29.69,-82.32,9,693.0,25.76,No,No,No,No,Loam,soybean,USA,-0.1045
+Venterea et al.,2011,44.75,-93.07,19,380.2,17.13333,No,No,No,No,Loam,maize,USA,-0.0387
+Venterea et al.,2011,44.75,-93.07,19,380.2,17.13333,No,No,No,No,Loam,maize,USA,-0.0457
+Venterea et al.,2011,44.75,-93.07,19,380.2,17.13333,No,No,No,No,Loam,maize,USA,-0.1732
+Venterea et al.,2011,44.75,-93.07,19,380.2,17.13333,No,No,No,No,Loam,maize,USA,-0.3352
+Venterea et al.,2011,44.75,-93.07,20,489.1,16.03333,No,No,No,No,Loam,maize,USA,-0.1439
+Venterea et al.,2011,44.75,-93.07,20,489.1,16.03333,No,No,No,No,Loam,maize,USA,-0.1811
+Venterea et al.,2011,44.75,-93.07,20,489.1,16.03333,No,No,No,No,Loam,maize,USA,-0.2278
+Venterea et al.,2011,44.75,-93.07,20,489.1,16.03333,No,No,No,No,Loam,maize,USA,-0.4583
+Venterea et al.,2011,44.75,-93.07,21,751.0,17.81667,No,No,No,No,Loam,maize,USA,-0.0129
+Venterea et al.,2011,44.75,-93.07,21,751.0,17.81667,No,No,No,No,Loam,maize,USA,-0.1271
+Venterea et al.,2011,44.75,-93.07,21,751.0,17.81667,No,No,No,No,Loam,maize,USA,-0.141
+Venterea et al.,2011,44.75,-93.07,21,751.0,17.81667,No,No,No,No,Loam,maize,USA,-0.2829
+Verhulst et al.,2011,19.52,-98.83,17,788.2,12.55714,No,No,No,No,Loam,maize,Mexico,-0.0789
+Verhulst et al.,2011,19.52,-98.83,17,788.2,12.55714,No,No,No,No,Loam,maize,Mexico,-0.0976
+Verhulst et al.,2011,19.52,-98.83,18,750.0,12.34286,No,No,No,No,Loam,maize,Mexico,0.2012
+Verhulst et al.,2011,19.52,-98.83,18,750.0,12.34286,No,No,No,No,Loam,maize,Mexico,-0.2131
+Verhulst et al.,2011,19.52,-98.83,19,825.6,13.01429,No,No,No,No,Loam,maize,Mexico,1.738
+Verhulst et al.,2011,19.52,-98.83,19,825.6,13.01429,No,No,No,No,Loam,maize,Mexico,0.1067
+Verhulst et al. ,2011,19.52,-98.83,16,841.9,12.41429,No,No,No,No,Loam,maize,Mexico,-0.1423
+Verhulst et al. ,2011,19.52,-98.83,16,841.9,12.41429,No,No,No,No,Loam,maize,Mexico,-0.2689
+Verhulst et al. ,2011,19.52,-98.83,16,841.9,12.41429,No,No,No,No,Loam,maize,Mexico,-0.3032
+Verhulst et al. ,2011,19.52,-98.83,16,841.9,12.41429,No,No,No,No,Loam,maize,Mexico,-0.4067
+Verhulst et al. ,2011,19.52,-98.83,18,750.0,12.34286,No,No,No,No,Loam,maize,Mexico,0.1611
+Verhulst et al. ,2011,19.52,-98.83,18,750.0,12.34286,No,No,No,No,Loam,maize,Mexico,-0.2925
+Verhulst et al. ,2011 b,27.55,-109.15,2,109.5,25.08571,Yes,Yes,No,No,Loam,wheat.winter,Mexico,0.0617
+Verhulst et al. ,2011 b,27.55,-109.15,2,109.5,25.08571,Yes,Yes,No,No,Loam,wheat.winter,Mexico,0.0138
+Verhulst et al. ,2011 b,27.55,-109.15,2,109.5,25.08571,Yes,Yes,No,No,Loam,wheat.winter,Mexico,-0.0391
+Verhulst et al. ,2011 b,27.55,-109.15,2,109.5,25.08571,Yes,Yes,No,No,Loam,wheat.winter,Mexico,-0.0646
+Verhulst et al. ,2011 b,27.55,-109.15,3,95.5,25.12857,Yes,Yes,No,No,Loam,wheat.winter,Mexico,0.1047
+Verhulst et al. ,2011 b,27.55,-109.15,3,95.5,25.12857,Yes,Yes,No,No,Loam,wheat.winter,Mexico,0.0096
+Verhulst et al. ,2011 b,27.55,-109.15,3,95.5,25.12857,Yes,Yes,No,No,Loam,wheat.winter,Mexico,-0.0213
+Verhulst et al. ,2011 b,27.55,-109.15,3,95.5,25.12857,Yes,Yes,No,No,Loam,wheat.winter,Mexico,-0.0292
+Verhulst et al. ,2011 b,27.55,-109.15,4,116.0,25.98571,Yes,Yes,No,No,Loam,wheat.winter,Mexico,0.2531
+Verhulst et al. ,2011 b,27.55,-109.15,4,116.0,25.98571,Yes,Yes,No,No,Loam,wheat.winter,Mexico,0.1929
+Verhulst et al. ,2011 b,27.55,-109.15,4,116.0,25.98571,Yes,Yes,No,No,Loam,wheat.winter,Mexico,0.0267
+Verhulst et al. ,2011 b,27.55,-109.15,4,116.0,25.98571,Yes,Yes,No,No,Loam,wheat.winter,Mexico,0.0078
+Wilhelm and Wortmann,2004,40.8,-96.67,2,619.2,20.5,No,No,No,No,Loam,maize,USA,-0.2735
+Wilhelm and Wortmann,2004,40.8,-96.67,2,619.2,20.5,No,No,No,No,Loam,maize,USA,-0.3882
+Wilhelm and Wortmann,2004,40.8,-96.67,3,411.2,21.43333,No,No,No,No,Loam,maize,USA,-0.0637
+Wilhelm and Wortmann,2004,40.8,-96.67,3,411.2,21.43333,No,No,No,No,Loam,maize,USA,-0.0658
+Wilhelm and Wortmann,2004,40.8,-96.67,4,636.9,19.71667,No,No,No,No,Loam,maize,USA,-0.0576
+Wilhelm and Wortmann,2004,40.8,-96.67,4,636.9,19.71667,No,No,No,No,Loam,maize,USA,-0.0634
+Wilhelm and Wortmann,2004,40.8,-96.67,5,569.0,20.45,No,No,No,No,Loam,maize,USA,0.0067
+Wilhelm and Wortmann,2004,40.8,-96.67,5,569.0,20.45,No,No,No,No,Loam,maize,USA,-0.35
+Wilhelm and Wortmann,2004,40.8,-96.67,6,355.8,20.76667,No,No,No,No,Loam,maize,USA,0.1416
+Wilhelm and Wortmann,2004,40.8,-96.67,6,355.8,20.76667,No,No,No,No,Loam,maize,USA,-0.1519
+Wilhelm and Wortmann,2004,40.8,-96.67,8,1027.5,18.36667,No,No,No,No,Loam,maize,USA,-0.123
+Wilhelm and Wortmann,2004,40.8,-96.67,8,1027.5,18.36667,No,No,No,No,Loam,maize,USA,-0.3949
+Wilhelm and Wortmann,2004,40.8,-96.67,9,616.1,19.55,No,No,No,No,Loam,maize,USA,-0.0997
+Wilhelm and Wortmann,2004,40.8,-96.67,9,616.1,19.55,No,No,No,No,Loam,maize,USA,-0.1774
+Wilhelm and Wortmann,2004,40.8,-96.67,10,509.6,19.35,No,No,No,No,Loam,maize,USA,0.0381
+Wilhelm and Wortmann,2004,40.8,-96.67,10,509.6,19.35,No,No,No,No,Loam,maize,USA,-0.1288
+Wilhelm and Wortmann,2004,40.8,-96.67,11,806.4,18.8,No,No,No,No,Loam,maize,USA,-0.0893
+Wilhelm and Wortmann,2004,40.8,-96.67,11,806.4,18.8,No,No,No,No,Loam,maize,USA,-0.1044
+Wilhelm and Wortmann,2004,40.8,-96.67,12,537.4,19.51667,No,No,No,No,Loam,maize,USA,-0.1588
+Wilhelm and Wortmann,2004,40.8,-96.67,12,537.4,19.51667,No,No,No,No,Loam,maize,USA,-0.2662
+Wilhelm and Wortmann,2004,40.8,-96.67,13,659.5,20.88333,No,No,No,No,Loam,maize,USA,-0.0663
+Wilhelm and Wortmann,2004,40.8,-96.67,13,659.5,20.88333,No,No,No,No,Loam,maize,USA,-0.1345
+Wilhelm and Wortmann,2004,40.8,-96.67,14,512.8,19.7,No,No,No,No,Loam,maize,USA,0.0609
+Wilhelm and Wortmann,2004,40.8,-96.67,14,512.8,19.7,No,No,No,No,Loam,maize,USA,-0.0921
+Wilhelm and Wortmann,2004,40.8,-96.67,15,510.9,21.08333,No,No,No,No,Loam,maize,USA,0.4619
+Wilhelm and Wortmann,2004,40.8,-96.67,15,510.9,21.08333,No,No,No,No,Loam,maize,USA,0.2927
+Wilhelm and Wortmann,2004,40.8,-96.67,16,671.3,20.15,No,No,No,No,Loam,maize,USA,0.007
+Wilhelm and Wortmann,2004,40.8,-96.67,16,671.3,20.15,No,No,No,No,Loam,maize,USA,-0.1582
+Wilhelm and Wortmann,2004,40.8,-96.67,2,619.2,20.5,No,No,No,No,Loam,soybean,USA,-0.0581
+Wilhelm and Wortmann,2004,40.8,-96.67,2,619.2,20.5,No,No,No,No,Loam,soybean,USA,-0.076
+Wilhelm and Wortmann,2004,40.8,-96.67,3,411.2,21.43333,No,No,No,No,Loam,soybean,USA,0.1545
+Wilhelm and Wortmann,2004,40.8,-96.67,3,411.2,21.43333,No,No,No,No,Loam,soybean,USA,-0.0389
+Wilhelm and Wortmann,2004,40.8,-96.67,4,636.9,19.71667,No,No,No,No,Loam,soybean,USA,-0.0969
+Wilhelm and Wortmann,2004,40.8,-96.67,4,636.9,19.71667,No,No,No,No,Loam,soybean,USA,-0.1033
+Wilhelm and Wortmann,2004,40.8,-96.67,5,569.0,20.45,No,No,No,No,Loam,soybean,USA,-0.3057
+Wilhelm and Wortmann,2004,40.8,-96.67,5,569.0,20.45,No,No,No,No,Loam,soybean,USA,-0.3632
+Wilhelm and Wortmann,2004,40.8,-96.67,6,355.8,20.76667,No,No,No,No,Loam,soybean,USA,0.2434
+Wilhelm and Wortmann,2004,40.8,-96.67,6,355.8,20.76667,No,No,No,No,Loam,soybean,USA,-0.0181
+Wilhelm and Wortmann,2004,40.8,-96.67,8,1027.5,18.36667,No,No,No,No,Loam,soybean,USA,0.0094
+Wilhelm and Wortmann,2004,40.8,-96.67,8,1027.5,18.36667,No,No,No,No,Loam,soybean,USA,-0.3598
+Wilhelm and Wortmann,2004,40.8,-96.67,9,616.1,19.55,No,No,No,No,Loam,soybean,USA,-0.0385
+Wilhelm and Wortmann,2004,40.8,-96.67,9,616.1,19.55,No,No,No,No,Loam,soybean,USA,-0.0607
+Wilhelm and Wortmann,2004,40.8,-96.67,10,509.6,19.35,No,No,No,No,Loam,soybean,USA,0.0902
+Wilhelm and Wortmann,2004,40.8,-96.67,10,509.6,19.35,No,No,No,No,Loam,soybean,USA,0.0205
+Wilhelm and Wortmann,2004,40.8,-96.67,11,806.4,18.8,No,No,No,No,Loam,soybean,USA,-0.1786
+Wilhelm and Wortmann,2004,40.8,-96.67,11,806.4,18.8,No,No,No,No,Loam,soybean,USA,-0.3321
+Wilhelm and Wortmann,2004,40.8,-96.67,12,537.4,19.51667,No,No,No,No,Loam,soybean,USA,-0.0488
+Wilhelm and Wortmann,2004,40.8,-96.67,12,537.4,19.51667,No,No,No,No,Loam,soybean,USA,-0.0754
+Wilhelm and Wortmann,2004,40.8,-96.67,13,659.5,20.88333,No,No,No,No,Loam,soybean,USA,0.1715
+Wilhelm and Wortmann,2004,40.8,-96.67,13,659.5,20.88333,No,No,No,No,Loam,soybean,USA,0.0063
+Wilhelm and Wortmann,2004,40.8,-96.67,14,512.8,19.7,No,No,No,No,Loam,soybean,USA,0.1615
+Wilhelm and Wortmann,2004,40.8,-96.67,14,512.8,19.7,No,No,No,No,Loam,soybean,USA,0.0064
+Wilhelm and Wortmann,2004,40.8,-96.67,15,510.9,21.08333,No,No,No,No,Loam,soybean,USA,0.8913
+Wilhelm and Wortmann,2004,40.8,-96.67,15,510.9,21.08333,No,No,No,No,Loam,soybean,USA,0.73
+Wilhelm and Wortmann,2004,40.8,-96.67,16,671.3,20.15,No,No,No,No,Loam,soybean,USA,-0.0039
+Wilhelm and Wortmann,2004,40.8,-96.67,16,671.3,20.15,No,No,No,No,Loam,soybean,USA,-0.0351
